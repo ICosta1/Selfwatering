@@ -1,2 +1,3 @@
-# Selfwatering
-Self Watering Garden with argon particle
+# IoTSelfWateringSystem
+
+A Particle project named IoTSelfWateringSystem
